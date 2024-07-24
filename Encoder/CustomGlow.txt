@@ -28,7 +28,12 @@
 00,017	255	127	000	// Dark Breaker
 00,018	255	127	000	// Thunder Blade
 00,019	255	127	000	// Divine Sword of Archangel
-00,020	191	165	127	// Knight Blade
+00,020	191	165	127	// Blade of Devourer
+00,021	240	90	80	// Dragon Sword
+00,022	200	245	240	// Hero Sword
+00,023	181	160	129	// Heaven Sword
+00,024	151	186	176	// Sunstriker
+00,025	247	130	111	// Soul Sword
 00,031	191	165	127	// Rune Blade
 
 //=====================================
@@ -266,10 +271,22 @@
 10,020	127	127	204	// Thunder Hawk Gloves
 11,020	127	127	204	// Thunder Hawk Boots
 
-07,021	204	117	063	// Great Dragon Helm
-08,021	204	117	063	// Great Dragon Armor
-09,021	204	117	063	// Great Dragon Pant
-10,021	204	117	063	// Great Dragon Gloves
-11,021	204	117	063	// Great Dragon Boots
+07,021	229	107	107	// Flaming Phoenix Helm
+08,021	229	107	107	// Flaming Phoenix Armor
+09,021	229	107	107	// Flaming Phoenix Pant
+10,021	229	107	107	// Flaming Phoenix Gloves
+11,021	229	107	107	// Flaming Phoenix Boots
+
+07,022	204	117	063	// Hero Knight Helm
+08,022	204	117	063	// Hero Knight Armor
+09,022	204	117	063	// Hero Knight Pant
+10,022	204	117	063	// Hero Knight Gloves
+11,022	204	117	063	// Hero Knight Boots
+
+07,023	218	240	243	// Ashcrow Helm
+08,023	218	240	243	// Ashcrow Armor
+09,023	218	240	243	// Ashcrow Pant
+10,023	218	240	243	// Ashcrow Gloves
+11,023	218	240	243	// Ashcrow Boots
 
 end
