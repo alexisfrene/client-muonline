@@ -71,23 +71,69 @@
 //Index	|	Skill	|	ModelName	|	Comment
 //========================================================================================================
 
-07,021		0		"HelmMale21"		// Great Dragon Helm
-08,021		0		"ArmorMale21"		// Great Dragon Armor
-09,021		0		"PantMale21"		// Great Dragon Pant
-10,021		0		"GloveMale21"		// Great Dragon Glove
-11,021		0		"BootMale21"		// Great Dragon Boot
+07,021		0		"HelmMale21"		// Flaming Phoenix Helmet
+08,021		0		"ArmorMale21"		// Flaming Phoenix Armor
+09,021		0		"PantMale21"		// Flaming Phoenix Pant
+10,021		0		"GloveMale21"		// Flaming Phoenix Gloves
+11,021		0		"BootMale21"		// Flaming Phoenix Boots
 
-07,022		0		"HelmMale22"		// Hero Helm
+07,022		0		"HelmMale22"		// Hero Helmet
 08,022		0		"ArmorMale22"		// Hero Armor
 09,022		0		"PantMale22"		// Hero Pant
-10,022		0		"GloveMale22"		// Hero Glove
-11,022		0		"BootMale22"		// Hero Boot
+10,022		0		"GloveMale22"		// Hero Gloves
+11,022		0		"BootMale22"		// Hero Boots
 
-07,023		0		"HelmMale23"		// Ashcrow Helm
+07,023		0		"HelmMale23"		// Ashcrow Helmet
 08,023		0		"ArmorMale23"		// Ashcrow Armor
 09,023		0		"PantMale23"		// Ashcrow Pant
-10,023		0		"GloveMale23"		// Ashcrow Glove
-11,023		0		"BootMale23"		// Ashcrow Boot
+10,023		0		"GloveMale23"		// Ashcrow Gloves
+11,023		0		"BootMale23"		// Ashcrow Boots
+
+07,024		0		"HelmMale24"		// Dark Side Helmet
+08,024		0		"ArmorMale24"		// Dark Side Armor
+09,024		0		"PantMale24"		// Dark Side Pant
+10,024		0		"GloveMale24"		// Dark Side Gloves
+11,024		0		"BootMale24"		// Dark Side Boots
+
+07,025		0		"HelmMale25"		// Great Sorcerer Helmet
+08,025		0		"ArmorMale25"		// Great Sorcerer Armor
+09,025		0		"PantMale25"		// Great Sorcerer Pant
+10,025		0		"GloveMale25"		// Great Sorcerer Gloves
+11,025		0		"BootMale25"		// Great Sorcerer Boots
+
+07,026		0		"HelmMale26"		// Eclipce Helmet
+08,026		0		"ArmorMale26"		// Eclipce Armor
+09,026		0		"PantMale26"		// Eclipce Pant
+10,026		0		"GloveMale26"		// Eclipce Gloves
+11,026		0		"BootMale26"		// Eclipce Boots
+
+07,027		0		"HelmMale27"		// Nature Helmet
+08,027		0		"ArmorMale27"		// Nature Armor
+09,027		0		"PantMale27"		// Nature Pant
+10,027		0		"GloveMale27"		// Nature Gloves
+11,027		0		"BootMale27"		// Nature Boots
+
+07,028		0		"HelmMale28"		// Aphrodite Helmet
+08,028		0		"ArmorMale28"		// Aphrodite Armor
+09,028		0		"PantMale28"		// Aphrodite Pant
+10,028		0		"GloveMale28"		// Aphrodite Gloves
+11,028		0		"BootMale28"		// Aphrodite Boots
+
+07,029		0		"HelmMale29"		// Diamond Helmet
+08,029		0		"ArmorMale29"		// Diamond Armor
+09,029		0		"PantMale29"		// Diamond Pant
+10,029		0		"GloveMale29"		// Diamond Gloves
+11,029		0		"BootMale29"		// Diamond Boots
+
+08,030		0		"ArmorMale30"		// Volcano Armor
+09,030		0		"PantMale30"		// Volcano Pant
+10,030		0		"GloveMale30"		// Volcano Gloves
+11,030		0		"BootMale30"		// Volcano Boots
+
+08,031		0		"ArmorMale31"		// Titanium Armor
+09,031		0		"PantMale31"		// Titanium Pant
+10,031		0		"GloveMale31"		// Titanium Gloves
+11,031		0		"BootMale31"		// Titanium Boots
 
 12,020		0		"Wing20"		// S3 BK
 12,021		0		"Wing21"		// S4 BK
